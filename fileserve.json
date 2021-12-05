@@ -1,19 +1,19 @@
 {
-    "version": "0.0.7",
+    "version": "0.0.8",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/hupe1980/fileserve/releases/download/v0.0.7/fileserve_Windows_i386.zip",
+            "url": "https://github.com/hupe1980/fileserve/releases/download/v0.0.8/fileserve_Windows_i386.zip",
             "bin": [
                 "fileserve.exe"
             ],
-            "hash": "8415f90d554cec85871e341a88883f3093491c7e3ceb3de2eb72656173271685"
+            "hash": "559ecaa32aa8c497b5037c92bf5f538431f8c377a67edd13d2d7a80e019c1295"
         },
         "64bit": {
-            "url": "https://github.com/hupe1980/fileserve/releases/download/v0.0.7/fileserve_Windows_x86_64.zip",
+            "url": "https://github.com/hupe1980/fileserve/releases/download/v0.0.8/fileserve_Windows_x86_64.zip",
             "bin": [
                 "fileserve.exe"
             ],
-            "hash": "3a77f85cfa7ebc330362a0e0f489a099dfaf07b297bec9251f27c0c2931e0fe5"
+            "hash": "a9f55c8db6d23767d9f16c3313bbd0f7e69dff34b2449c6e605fc4e709381ea0"
         }
     },
     "homepage": "https://github.com/hupe1980/fileserve",
