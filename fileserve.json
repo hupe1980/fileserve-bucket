@@ -1,0 +1,22 @@
+{
+    "version": "0.0.4",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/hupe1980/fileserve/releases/download/v0.0.4/fileserve_Windows_i386.zip",
+            "bin": [
+                "fileserve.exe"
+            ],
+            "hash": "6d87e7ff59316e92ff43a4ebad2599f75ccf464409045585510f936f541b1275"
+        },
+        "64bit": {
+            "url": "https://github.com/hupe1980/fileserve/releases/download/v0.0.4/fileserve_Windows_x86_64.zip",
+            "bin": [
+                "fileserve.exe"
+            ],
+            "hash": "b1288946da0a8f46b9fd80975c2fdf3794de3ca055986054550669858abf4fe1"
+        }
+    },
+    "homepage": "https://github.com/hupe1980/fileserve",
+    "license": "MIT",
+    "description": "Golang-based simple file server to serve static files of the current working directory"
+}
